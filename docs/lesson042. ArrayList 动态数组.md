@@ -276,19 +276,19 @@ public class Main {
 
 - 我们创建了一个 `ArrayList<String>` 来存储名字，并使用 `add()` 方法添加了 `"Alice"`、`"Bob"` 和 `"Charlie"`。
 
-1. `set()` **方法**：
+2. `set()` **方法**：
 
 - 使用 `set(0, "Alex")` 将索引为 0 的元素 `"Alice"` 修改为 `"Alex"`。
 
-1. `remove()` **方法**：
+3. `remove()` **方法**：
 
 - 使用 `remove(1)` 删除索引为 1 的元素 `"Bob"`。
 
-1. **再次使用** `add()` **方法**：
+4. **再次使用** `add()` **方法**：
 
 - 添加了 `"David"` 和 `"Emma"` 两个新元素。
 
-1. `clear()` **方法**：
+5. `clear()` **方法**：
 
 - 使用 `clear()` 清空整个 `ArrayList`。
 
@@ -308,24 +308,18 @@ After using clear() to remove all elements: []
 
 - `ArrayList` 中的元素为 `[Alice, Bob, Charlie]`。
 
-1. **使用** `set()` **方法**：
+2. **使用** `set()` **方法**：
 
 - 将第一个元素 `"Alice"` 修改为 `"Alex"`，结果变为 `[Alex, Bob, Charlie]`。
 
-1. **使用** `remove()` **方法**：
+3. **使用** `remove()` **方法**：
 
 - 删除了索引为 1 的元素 `"Bob"`，结果变为 `[Alex, Charlie]`。
 
-1. **再次添加元素**：
+4. **再次添加元素**：
 
 - 添加了 `"David"` 和 `"Emma"`，结果变为 `[Alex, Charlie, David, Emma]`。
 
-1. **使用** `clear()` **方法**：
+5. **使用** `clear()` **方法**：
 
 - 清空了整个 `ArrayList`，结果为空 `[]`。
-
-------
-
-### 8. **总结**
-
-这一章介绍了 `ArrayList` 的基本使用方法和常见操作。`ArrayList` 是 Java 中非常强大且常用的集合类，适合用于需要动态调整大小的场景。通过这一章，你应该已经掌握了 `ArrayList` 的创建、元素的增删改查、遍历、排序等操作。
