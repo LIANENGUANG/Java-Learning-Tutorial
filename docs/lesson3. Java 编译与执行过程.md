@@ -12,24 +12,24 @@ Java 代码从源代码到最终执行的过程分为几个阶段：
 
 ![img](../images/1725849747746-1acacdc8-e52c-4d81-a1a5-a9f4c818e635.jpeg)
 
-1. **编译 (Compilation)**：
+2. **编译 (Compilation)**：
 
 - Java 编译器（`javac`）将 `.java` 文件中的源代码编译为字节码（byte code）。编译过程生成 `.class` 文件。
 - 字节码是一种中间语言，具有跨平台的特性，可以在不同的操作系统上运行。
 
-1. **字节码 (Byte Code)**：
+3. **字节码 (Byte Code)**：
 
 - 编译后的 Java 字节码存储在 `.class` 文件中。
 - 这种字节码不是直接运行在硬件上的机器码，而是由 JVM（Java 虚拟机）解释或编译后执行。
 
 ![img](../images/1725849770727-16c10a7a-c221-4b3b-b30e-c80b0af03791.png)
 
-1. **Java 虚拟机 (JVM)**：
+4. **Java 虚拟机 (JVM)**：
 
 - JVM 是 Java 程序的运行环境，负责将字节码翻译为机器码来执行。
 - JVM 的存在让 Java 具有良好的跨平台特性，因为 JVM 可以在任何操作系统上运行字节码，而无需重新编译源代码。
 
-1. **目标代码 (Object Code / Machine Code)**：
+5. **目标代码 (Object Code / Machine Code)**：
 
 - 最终，JVM 将字节码翻译为计算机能够识别的机器码（如二进制代码），然后由计算机的处理器执行。
 

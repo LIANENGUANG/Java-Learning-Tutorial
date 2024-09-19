@@ -11,12 +11,12 @@ JDK 由以下几个部分组成：
 - JVM 是 Java 虚拟机，负责运行编译后的字节码。也就是说，JVM 将字节码翻译为机器能够理解的机器码，并执行这些代码。
 - JVM 是 Java 跨平台特性的核心，确保了 Java 程序可以在不同的操作系统上运行。
 
-1. **JRE (Java Runtime Environment)**：
+2. **JRE (Java Runtime Environment)**：
 
 - JRE 是 Java 运行时环境，包含了 JVM 及其所需的类库和工具包，用于运行 Java 程序。
 - 如果你只需要运行 Java 程序，那么安装 JRE 就足够了。
 
-1. **JDK (Java Development Kit)**：
+3. **JDK (Java Development Kit)**：
 
 - JDK 是 Java 开发工具包，包含了 JRE 和用于开发 Java 程序的额外工具，如编译器（`javac`）、调试器等。
 - 开发者使用 JDK 来编写、编译和调试 Java 程序。
