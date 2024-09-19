@@ -33,7 +33,7 @@ Java 代码从源代码到最终执行的过程分为几个阶段：
 
 - 最终，JVM 将字节码翻译为计算机能够识别的机器码（如二进制代码），然后由计算机的处理器执行。
 
-#### JDK 和 JVM
+6. **JDK 和 JVM**
 
 - **JDK (Java Development Kit)**：JDK 是 Java 开发工具包，包含了开发 Java 程序所需的各种工具，包括编译器（`javac`）、JVM 和其他库。
 - **JVM (Java Virtual Machine)**：JVM 是 JDK 的一部分，负责运行 Java 字节码。
