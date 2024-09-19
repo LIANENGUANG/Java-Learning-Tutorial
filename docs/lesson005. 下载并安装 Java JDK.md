@@ -1,4 +1,4 @@
-# lesson5. 下载并安装 Java JDK
+# lesson005. 下载并安装 Java JDK
 
 为了开始学习和开发 Java 程序，首先需要下载和安装 Java 开发工具包 (JDK)。以下是步骤指南：
 

@@ -1,4 +1,4 @@
-# lesson6. 什么是 IDE？
+# lesson006. 什么是 IDE？
 
 IDE 是 **Integrated Development Environment**（集成开发环境）的缩写。它是一种帮助开发者编写、调试和测试软件的工具集。IDE 将代码编辑器、编译器、调试器、构建工具等集成在一个软件界面中，提供了更加高效和便捷的开发体验。
 

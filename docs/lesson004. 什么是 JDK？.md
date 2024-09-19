@@ -1,4 +1,4 @@
-# lesson4. 什么是 JDK？
+# lesson004. 什么是 JDK？
 
 JDK（Java Development Kit，Java 开发工具包）是用于开发 Java 应用程序的完整工具集。它不仅包含了运行 Java 程序所需要的环境，还提供了开发者编写、编译和调试 Java 程序的工具。
 

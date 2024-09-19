@@ -1,4 +1,4 @@
-# lesson7. Java 程序中的 main 方法
+# lesson007. Java 程序中的 main 方法
 
 在 Java 中，`main` 方法是程序的入口点。每当你运行一个 Java 程序时，JVM（Java 虚拟机）会首先寻找并执行 `main` 方法。没有 `main` 方法的 Java 程序是无法运行的。
 
